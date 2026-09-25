@@ -1,0 +1,6 @@
+{
+  "name": "Amazon ML Challenge 2026 - Business Entity Resolution Platform",
+  "description": "Interactive workbench, blocking and matching pipeline simulator, macro F0.5 evaluator, and submission validator for the Amazon ML Challenge 2026 Business Entity Resolution task.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
